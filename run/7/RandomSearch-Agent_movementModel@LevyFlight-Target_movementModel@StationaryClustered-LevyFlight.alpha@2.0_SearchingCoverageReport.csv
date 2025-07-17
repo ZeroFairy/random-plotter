@@ -1,0 +1,9 @@
+Message stats for scenario RandomSearch-Agent_movementModel@LevyFlight-Target_movementModel@StationaryClustered-LevyFlight.alpha@2.0
+sim_time: 604800.0000
+totalSearchingAgents: 1
+initialDiscoveryTime: 2818.0
+totalSearchableNodes: 100
+totalDiscoveredNodes: 45
+totalRemainingNodes: 55
+totalSuccessRate: 45.00%
+
