@@ -1,0 +1,7 @@
+filename,Agent_movementModel,Target_movementModel,LevyFlight.alpha,min_coverage,avg_coverage,max_coverage,time_to_25_percent,time_to_50_percent,time_to_75_percent,time_to_90_percent
+RandomSearch-Agent_movementModel@BrownianMotion-Target_movementModel@StationaryClustered-LevyFlight.alpha@0.25_SearchingCoverageOverTimeReport,BrownianMotion,StationaryClustered,0.25,0.0,57.633136094674555,89.0,129600,201600,349200,0
+RandomSearch-Agent_movementModel@BrownianMotion-Target_movementModel@StationaryPoisson-LevyFlight.alpha@0.25_SearchingCoverageOverTimeReport,BrownianMotion,StationaryPoisson,0.25,1.0,54.46153846153846,77.0,79200,226800,471600,0
+RandomSearch-Agent_movementModel@LevyFlight-Target_movementModel@StationaryClustered-LevyFlight.alpha@1.0_SearchingCoverageOverTimeReport,LevyFlight,StationaryClustered,1.0,0.0,65.1775147928994,94.0,54000,172800,327600,399600
+RandomSearch-Agent_movementModel@LevyFlight-Target_movementModel@StationaryPoisson-LevyFlight.alpha@1.0_SearchingCoverageOverTimeReport,LevyFlight,StationaryPoisson,1.0,1.0,66.40236686390533,94.0,68400,140400,291600,511200
+RandomSearch-Agent_movementModel@RandomWaypoint-Target_movementModel@StationaryClustered-LevyFlight.alpha@1.0_SearchingCoverageOverTimeReport,RandomWaypoint,StationaryClustered,1.0,0.0,73.53846153846153,89.0,32400,108000,158400,0
+RandomSearch-Agent_movementModel@RandomWaypoint-Target_movementModel@StationaryPoisson-LevyFlight.alpha@1.0_SearchingCoverageOverTimeReport,RandomWaypoint,StationaryPoisson,1.0,5.0,68.9171597633136,84.0,28800,79200,331200,0
